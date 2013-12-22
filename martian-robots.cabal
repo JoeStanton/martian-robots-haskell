@@ -1,0 +1,9 @@
+name:                Martian Robots
+version:             0.1.0.0
+author:              Joe Stanton
+maintainer:          joe.stanton@red-badger.com
+build-type:          Simple
+cabal-version:       >=1.8
+
+library
+  build-depends:       base ==4.6.*
